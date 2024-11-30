@@ -1,0 +1,170 @@
+[{
+        "name" : "Pencil Box",
+        "price" : "₹150.00",
+        "description" : "This is a Pencil Box",
+        "ratings" : "4",
+        "offer" : "N",
+        "offer_price" : "",
+        "images" : [
+            {
+                "image" : "https://m.media-amazon.com/images/I/61KasEBk3HL._SX679_.jpg"
+            }
+        ],
+        "category" : "Stationery",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    },
+    {
+        "name" : "School Bag",
+        "price" : "₹500.00",
+        "description" : "This is a School Bag",
+        "ratings" : "5",
+        "offer" : "Y",
+        "offer_price" : "₹335.00" ,
+         "images" : [
+            {
+                "image" : "https://staranddaisy.in/wp-content/uploads/2024/02/kids-School-bags-Genius_Comet_Blue_1.jpg"
+            }
+        ],
+        "category" : "Accessories",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    },
+    {
+        "name" : "Water Bottle",
+        "price" : "₹230.00",
+        "description" : "This is a Water Bottle",
+        "ratings" : "5",
+        "offer" : "N",
+        "offer_price" : "" ,
+        "images" : [
+            {
+                "image" : "https://m.media-amazon.com/images/I/61q8CuKeHWL._SX679_.jpg"
+            }
+        ],
+        "category" : "Accessories",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    },
+    {
+        "name" : "Pencil",
+        "price" : "₹100.00",
+        "description" : "This is a Pencil",
+        "ratings" : "4",
+        "offer" : "N",
+        "offer_price" : "",
+        "images" : [
+            {
+                "image" : "https://m.media-amazon.com/images/I/61+vZ1bAiEL._SY879_.jpg"
+            }
+        ],
+        "category" : "Stationery",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    },
+    {
+        "name" : "Rubber",
+        "price" : "₹105.00",
+        "description" : "This is a Rubber",
+        "ratings" : "4",
+        "offer" : "Y",
+        "offer_price" : "₹89.00",
+        "images" : [
+            {
+                "image" : "https://i.etsystatic.com/21765430/r/il/74b711/2845704081/il_1588xN.2845704081_lid2.jpg"
+            }
+        ],
+        "category" : "Stationery",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    },
+    {
+        "name" : "Lunch Towel",
+        "price" : "₹20.00",
+        "description" : "This is a Lunch Towel",
+        "ratings" : "2",
+        "offer" : "N",
+        "offer_price" : "",
+        "images" : [
+            {
+                "image" : "https://zahya.in/wp-content/uploads/2023/11/1-2.jpg"
+            }
+        ],
+        "category" : "Accessories",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    },
+    {
+        "name" : "Sharpner",
+        "price" : "₹20.00",
+        "description" : "This is a Sharpner",
+        "ratings" : "3",
+        "offer" : "N",
+        "offer_price" : "",
+        "images" : [
+            {
+                "image" : "https://5.imimg.com/data5/FZ/KS/NI/SELLER-3545876/pencil-sharpener-for-kids-1000x1000.jpg"
+            }
+        ],
+        "category" : "Stationery",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    },
+    {
+        "name" : "NoteBook",
+        "price" : "₹120.00",
+        "description" : "This is a NoteBook",
+        "ratings" : "4",
+        "offer" : "Y",
+        "offer_price" : "₹99",
+        "images" : [
+            {
+                "image" : "https://5.imimg.com/data5/SELLER/Default/2021/9/IR/IA/TI/133605709/kids-school-notebook-1000x1000.jpg"
+            }
+        ],
+        "category" : "Stationery",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    },
+    {
+        "name" : "Pen",
+        "price" : "₹15.00",
+        "description" : "This is a Pen",
+        "ratings" : "4",
+        "offer" : "N",
+        "offer_price" : "",
+        "images" : [
+            {
+                "image" : "https://5.imimg.com/data5/DY/YD/MY-15468671/44-1000x1000.jpg"
+            }
+        ],
+        "category" : "Stationery",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    },
+    {
+        "name" : "Tiffen Box",
+        "price" : "₹365.00",
+        "description" : "This is a Tiffen Box",
+        "ratings" : "5",
+        "offer" : "Y",
+        "offer_price" : "₹290.00",
+        "images" : [
+            {
+                "image" : "https://m.media-amazon.com/images/I/31hlyhUFcOL._SX300_SY300_QL70_FMwebp_.jpg"
+            }
+        ],
+        "category" : "Accessories",
+        "seller" : "ABC",
+        "stock" : 5,
+        "numOfReviews" : 10
+    }]
